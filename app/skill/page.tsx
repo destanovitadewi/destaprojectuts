@@ -2,7 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import { Globe, Database, Palette, Shield, Laptop } from "lucide-react";
+import { Globe, Database, Palette } from "lucide-react";
 
 export default function Skill() {
   const skills = [
